@@ -1,0 +1,3 @@
+--- backout instructions ---
+1. take file backup
+2. execute the uninstall program
